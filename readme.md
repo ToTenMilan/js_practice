@@ -3,10 +3,10 @@
 
 ### jquery:
 
-[JSRights](totenmilan.github.io/js_practice/jumpstart/jquery/jsrights/)
-[JSTasker](totenmilan.github.io/js_practice/jumpstart/jquery/jstasker/)
-[JSCart](totenmilan.github.io/js_practice/jumpstart/jquery/jscart/)
+https://totenmilan.github.io/js_practice/jumpstart/jquery/jsrights/
+https://totenmilan.github.io/js_practice/jumpstart/jquery/jstasker/
+https://totenmilan.github.io/js_practice/jumpstart/jquery/jscart/
 
 ### Jasmine:
 
-[tests](totenmilan.github.io/js_practice/jumpstart/jasmine/SpecRunner.html)
+https://totenmilan.github.io/js_practice/jumpstart/jasmine/SpecRunner.html
