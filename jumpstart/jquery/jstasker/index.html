@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Tasker</title>
+    <link rel="stylesheet" href="styles/styles.css" type="text/css" />
+    <script src="scripts/jquery-3.2.1.min.js"></script>
+    <script src='scripts/main.js'></script>
+  </head>
+
+  <body>
+    <h1>JSTasker</h1>
+    <form id='add_task'>
+      <fieldset>
+        <legend>Add a Task</legend>
+        <input type='text' name='task_text' id='task_text' />
+        <input type='submit' name='add_button' value='Add' />
+      </fieldset>
+    </form>
+
+    <div id='tasks'>
+      <h2>Your Tasks <span id="task_counter"></span></h2>
+      <ul>
+      </ul>
+      
+    </div>
+  </body>
+</html>
